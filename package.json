@@ -1,0 +1,19 @@
+{
+  "name": "social-media-events-to-calendar-framework",
+  "version": "1.0.0",
+  "description": "Social media events to iCalendar framework ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sVathis/social-media-events-to-calendar-framework.git"
+  },
+  "author": "Spiros Vathis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sVathis/social-media-events-to-calendar-framework/issues"
+  },
+  "homepage": "https://github.com/sVathis/social-media-events-to-calendar-framework#readme"
+}
